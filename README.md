@@ -4,9 +4,11 @@
 
 📚 Studied at the Higher Institute for Applied Sciences and Technology.
 
-✨ Tech Enthusiast and Competitve Programmer.
+✨ Tech Enthusiast and Competitive Programmer.
 
 ♟️ Amateur Chess Player.
+
+🏞 Check Out My Portfolio: https://moutazdebbaneh.github.io/portfolio/
 
 ## 🌐 Socials:
 
